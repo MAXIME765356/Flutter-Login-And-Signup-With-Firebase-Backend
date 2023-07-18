@@ -1,4 +1,14 @@
 # Flutter-Login-And-Signup-With-Firebase-Backend
+
+
+## Enable Email/Password provider in firebase console and download your own google services.json file and put in android/app/src
+
+
+
+## Then flutter pub get and flutter run, also use latest flutter version
+
+
+
 ### Login Page
 
 
